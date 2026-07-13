@@ -13,7 +13,7 @@ window.PORTFOLIO_DATA = {
       id: "missing-screws",
       number: "01",
       title: "Missing Screws",
-      folder: "projects/missing-screws",
+      folder: "missing-screws",
       thumb: "thumb.jpeg",
       overview:
         "Missing Screws explores the relationship between structure, perception, and uncertainty. Inspired by a personal memory of becoming stranded while off-roading in the New Mexico desert, the chair translates the psychological tension of instability into a physical object. Through exposed steel construction, absent fasteners, and a suspended leather seat, the design challenges expectations of permanence while celebrating the honesty of fabrication.",
